@@ -15,5 +15,5 @@
 <size=80>NY RUNDE</size>\n<size=35>Runden starter på nytt...</size>
 <size=80>VENNLIGST VENT</size>\n<size=35>Laster veiledning...</size>
 <size=80>VERSJONSINKOMPABILITET</size>\nDin versjon av spillet er annerledes enn tjenerens versjon\n(Din versjon - [your]; Tjenerens versjon - [server])
-<size=80>KOBLET TIL</size>\n<size=35>Laster nivå...</size>
+<size=80>TILKOBLET</size>\n<size=35>Laster nivå...</size>
 <size=35>Laster inn anlegget...</size>
